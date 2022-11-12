@@ -1,8 +1,4 @@
-**Challenge 4**
-
-<h1 class="title">
-          Module 4 Challenge
-        </h1>
+<h1 class="title">Module 4 Challenge </h1>
 
 **User Story**
 
